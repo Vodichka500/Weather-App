@@ -60,6 +60,13 @@ docker buildx imagetools inspect s99792/weather-app:latest
 
 ```
 
+---
+## Screenshots:
+![image](https://github.com/user-attachments/assets/b50d4213-79d7-40d8-b934-25c936a64651)
+![image](https://github.com/user-attachments/assets/79669f27-bcb6-4782-a52c-bf419c7e18b3)
+![image](https://github.com/user-attachments/assets/11685dae-8da9-4258-bd29-a0b2568c9b05)
+
+
 ## Author
 
 Uladzislau Kamisarau  
